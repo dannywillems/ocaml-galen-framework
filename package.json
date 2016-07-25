@@ -1,0 +1,30 @@
+{
+  "name": "ocaml-galen-framework",
+  "version": "1.0.0",
+  "description": "Binding OCaml to Galen Framework using BuckleScript",
+  "main": "galen_framework.js",
+  "dependencies": {
+    "bs-platform": "^0.8.5"
+  },
+  "devDependencies": {
+    "bs-platform": "^0.8.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannywillems/ocaml-galen-framework.git"
+  },
+  "keywords": [
+    "galen",
+    "ocaml",
+    "framework"
+  ],
+  "author": "Danny Willems (contact@danny-willems.be)",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dannywillems/ocaml-galen-framework/issues"
+  },
+  "homepage": "https://github.com/dannywillems/ocaml-galen-framework#readme"
+}
